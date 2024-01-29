@@ -31,7 +31,7 @@ python task_manager.py
 A menu with several options will be displayed by the application. To execute an action, enter the correct number.
 
 **Add New Task (Option 1):**
-Input the necessary information for the new task, including its name, description, category, priority, and due date.
+Input the necessary information for the new task, including its name, description, category, priority, and due date.<br/>
 **View All Tasks (Option 2):**
 shows a list of every task along with its specifics.
 **Mark Task as Completed (Option 3):**
