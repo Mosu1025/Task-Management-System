@@ -31,21 +31,21 @@ python task_manager.py
 A menu with several options will be displayed by the application. To execute an action, enter the correct number.
 
 **Add New Task (Option 1):**
-Input the necessary information for the new task, including its name, description, category, priority, and due date.<br/>
+Input the necessary information for the new task, including its name, description, category, priority, and due date. \
 **View All Tasks (Option 2):**
-shows a list of every task along with its specifics.
+shows a list of every task along with its specifics.\
 **Mark Task as Completed (Option 3):**
-Type the task name to indicate that it has been finished.
+Type the task name to indicate that it has been finished. \
 **Delete Task From Available Tasks List (Option 4):**
-Type in the task's name to be deleted.
+Type in the task's name to be deleted. \
 **Prioritize Any Task (Option 5):**
-Put the task name and the new priority (High, Medium, Low) in here.
+Put the task name and the new priority (High, Medium, Low) in here. \
 **Search Tasks From Available Tasks (Option 6):**
-To find a keyword in task names, enter it here.
+To find a keyword in task names, enter it here. \
 **Categorize Any Task (Option 7):**
-Put the task name and the new category in here.
+Put the task name and the new category in here. \
 **Set Due Date for a Task (Option 8):**
-In the format YYYY-MM-DD, provide the task name and the new due date.
+In the format YYYY-MM-DD, provide the task name and the new due date. \
 **Quit Task Manager (Option 9):**
 Closes the application.
 
